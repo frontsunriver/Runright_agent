@@ -1,0 +1,1 @@
+exports.product_mode = 0; // 1: Production Mode, 0: Development Mode
